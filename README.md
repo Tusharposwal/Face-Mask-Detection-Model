@@ -39,6 +39,6 @@ we have used different datasets for the same eg: MDMFR dataset, facmask dataset.
 
 
 
-Contact
+Contact:
 For any questions or feedback, feel free to reach out at tusharposwal552@gmail.com
 
